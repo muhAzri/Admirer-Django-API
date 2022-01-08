@@ -27,8 +27,9 @@ This App is currently extended with the following plugins.
 | Package | Docs |
 | ------ | ------ |
 | Django | [Django](https://www.djangoproject.com) |
+| Django Filter | [Django Filter](https://django-filter.readthedocs.io/en/stable/) |
 | Django Restframework | [Django Restframework](https://www.django-rest-framework.org) |
-| MySqlClient | [MqSqlClient](https://pypi.org/project/mysqlclient/) |
+| MySqlClient | [MySqlClient](https://pypi.org/project/mysqlclient/) |
 
 ## License
 
